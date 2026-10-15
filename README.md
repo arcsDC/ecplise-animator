@@ -1,4 +1,4 @@
-This repo was made for the sole purpose of distributing ecplise animator for free, Have Fun!
+This repo is used to store older versions of ecplise animator, Thanks for visiting
 How do i install it?
 Place the ecplise animator inside your plugin folder
 How do i get my plugin folder?
